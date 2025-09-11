@@ -235,7 +235,7 @@ const Dashboard: React.FC = () => {
 
           <Card className="shadow-sm animate-card-hover">
             <CardHeader>
-              <CardTitle className="text-foreground">AI Recommendations</CardTitle>
+              <CardTitle className="text-foreground">Recommendations</CardTitle>
             </CardHeader>
             <CardContent>
               <div className="space-y-3">
