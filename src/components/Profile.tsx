@@ -26,7 +26,7 @@ const Profile: React.FC = () => {
   const [isEditing, setIsEditing] = useState(false);
 
   const userProfile = {
-    name: 'Fang Li',
+    name: 'Fang',
     title: 'Computer Science Student',
     university: 'Stanford University',
     year: 'Junior (3rd Year)',
