@@ -1,7 +1,7 @@
 
-  # All-in-One Student Hub
+  # AI-Powered Student Platform
 
-  This is a code bundle for All-in-One Student Hub. The original project is available at https://www.figma.com/design/rjzDtw6Qrm90HvlGhVp8Ub/All-in-One-Student-Hub.
+  This is a code bundle for AI-Powered Student Platform. The original project is available at https://www.figma.com/design/Ekp2kdVfBESohuAjxPxe4w/AI-Powered-Student-Platform.
 
   ## Running the code
 
