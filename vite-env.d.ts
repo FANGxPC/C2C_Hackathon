@@ -1,0 +1,12 @@
+/// <reference types="vite/client" />
+
+// Optional but nice: strongly type your env keys
+interface ImportMetaEnv {
+  readonly VITE_GEMINI_API_KEY: string;
+}
+
+interface ImportMeta {
+  readonly env: ImportMetaEnv;
+}
+
+export {};
