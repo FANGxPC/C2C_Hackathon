@@ -58,6 +58,6 @@ export default defineConfig({
     host: "localhost", // keep a consistent host for the same storage bucket
     port: 8000, // keep the same port each run
     strictPort: true, // don’t auto-switch ports (prevents new origin)
-    open: true, // auto-open the same URL each time
+    // open: true, // auto-open the same URL each time
   },
 });
