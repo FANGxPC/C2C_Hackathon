@@ -57,18 +57,9 @@
             "tailwind-merge": "*",
             "tailwindcss": "*",
             "typescript-eslint": "*",
-            "vaul": "^1.1.2",
-            "vite": "*",
-            "zod": "*"
-      },
-      "devDependencies": {
-            "@types/node": "^20.10.0",
-            "@types/react": "19.1.12",
-            "@vitejs/plugin-react-swc": "^3.10.2",
-            "vite": "6.3.5"
-      },
-      "scripts": {
-            "dev": "vite",
-            "build": "vite build"
+    "@types/node": "^20.10.0",
+    "@types/react": "19.1.12",
+    "@vitejs/plugin-react-swc": "^3.10.2",
+    "vite": "6.3.5"
       }
 }
