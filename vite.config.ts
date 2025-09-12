@@ -52,7 +52,7 @@ export default defineConfig({
   },
   build: {
     target: "esnext",
-    outDir: "build",
+    outDir: "dist",
   },
   server: {
     host: "localhost", // keep a consistent host for the same storage bucket
